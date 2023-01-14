@@ -25,7 +25,7 @@ app.post('/chatbot', (req, res) => {
 	}
 });
 
-app.get("/chatbot",(req, res)=>{
+app.get("/",(req, res)=>{
 	res.sendFile("/frontend/index.html")
 } )
 

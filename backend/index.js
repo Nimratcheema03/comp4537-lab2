@@ -1,6 +1,5 @@
 const express = require('express');
 const app = express(); 
-const fetch = require("node-fetch")
 const cors = require('cors');
 app.use(express.json()); // read JSON BODY
 app.use(express.urlencoded({ extended: true })); // read URL encoded body

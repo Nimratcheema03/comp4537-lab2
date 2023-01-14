@@ -1,7 +1,6 @@
 {
-  "name": "comp4537-lab2",
+  "name": "n",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,6 +17,8 @@
   "homepage": "https://github.com/Nimratcheema03/comp4537-lab2#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.18.2"
-  }
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.0"
+  },
+  "description": ""
 }

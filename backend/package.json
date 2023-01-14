@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Nimratcheema03/comp4537-lab2#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.2"
   }
 }

@@ -33,6 +33,3 @@ const PORT = process.env.PORT  || 3000;
 app.listen(PORT, () => {
 	console.log(`Server is running on port ${PORT}`);
 });
-
-url = "https://chatbot-bsh7.onrender.com"
-backend = process.env.url
